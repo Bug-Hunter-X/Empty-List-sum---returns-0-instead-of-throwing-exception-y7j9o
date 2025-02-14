@@ -1,0 +1,3 @@
+# Kotlin Empty List sum() Behavior
+
+This example demonstrates the behavior of the `sum()` function in Kotlin when applied to an empty list.  Instead of throwing an exception, it gracefully returns 0. This might be unexpected behavior for developers accustomed to languages that handle this differently.  The code showcases both a list with values and an empty list, highlighting the consistent return of 0 for the empty case.
